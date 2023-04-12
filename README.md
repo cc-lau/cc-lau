@@ -4,7 +4,7 @@
 
 - 🌍 I'm based in Salt Lake City, Utah
 - 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://christianlaudev.vercel.app/'>Portfolio</a>
-- 🧠 Currently learning p5 js sound library
+- 🧠 Currently learning Next.js
 
 ### Skills
 
